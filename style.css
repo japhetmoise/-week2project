@@ -1,0 +1,45 @@
+#header{
+	background-color: gray;
+text-align: center;
+ color: antiquewhite;
+
+}
+body{
+	margin: 30px;
+}
+#menu{
+	background-color: beige;
+	height: 30px;
+}
+#menu a{
+background-color: aquamarine;
+padding: 5px 30px;
+border-radius: 20px;
+text-decoration: none;
+}
+#contact-table{
+	margin-left: 50px;
+}
+thead{
+	background-color: black;
+	color: aliceblue;
+	text-align: center;
+	font-size: 20px;
+}
+table ,tr,td{
+	border-collapse: collapse;
+
+}
+#menu a:hover{
+	background-color: rgb(4, 160, 126);
+}
+#foot{
+
+	position: fixed;
+	bottom: 0%;
+	background-color: black;
+	color: whitesmoke;
+	height: 20px;
+	width: 100%;
+	text-align: center;
+}
